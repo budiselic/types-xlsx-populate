@@ -1,4 +1,6 @@
 {
+  "name": "@types/xlsx-populate",
+  "version": "1.21.0",
   "description": "TypeScript definitions for XLSX-Populate",
   "license": "MIT",
   "contributors": [
@@ -15,15 +17,13 @@
       "url": "https://github.com/Akxe"
     }
   ],
-  "name": "@types/xlsx-populate",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    "url": "https://github.com/budiselic/types-xlsx-populate"
   },
   "devDependencies": {
     "@types/node": "^16.9.1",
     "xlsx-populate": "1.21.0"
   },
-  "typeScriptVersion": "3.4",
-  "version": "1.21.0"
+  "typeScriptVersion": "3.4"
 }
