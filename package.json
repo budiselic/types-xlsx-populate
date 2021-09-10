@@ -1,6 +1,6 @@
 {
   "name": "xlsx-populate-types",
-  "version": "1.21.0",
+  "version": "1.21.1",
   "description": "TypeScript definitions for XLSX-Populate",
   "license": "MIT",
   "contributors": [
