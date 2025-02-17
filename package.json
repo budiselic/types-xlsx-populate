@@ -22,7 +22,7 @@
     "url": "https://github.com/budiselic/types-xlsx-populate"
   },
   "devDependencies": {
-    "@types/node": "^16.9.1",
+    "@types/node": "^22.13.4",
     "xlsx-populate": "1.21.0"
   },
   "typeScriptVersion": "3.4"
